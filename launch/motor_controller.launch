@@ -1,0 +1,4 @@
+<launch>
+  <node name="udoo_motor_controller" pkg="udoo_motor_controller" type="udoo_motor_controller.py"  output="screen"/>
+</launch>
+
